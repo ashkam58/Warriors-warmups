@@ -1,0 +1,6 @@
+{
+  "name": "LearnFun Warm-Up Universe",
+  "description": "An immersive 3D educational gaming platform delivering 15-minute adaptive warm-up sessions across Mathematics, Coding, and Logic for Grades 1–12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
